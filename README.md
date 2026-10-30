@@ -6,7 +6,7 @@ Exploratory data analysis of 19,515 property listings in Gurgaon using Python.
 Clean the raw listing data and answer 10 pricing questions to understand what drives property prices across sectors.
 
 ## Dataset
-19,515 property listings. Source: [add the source, e.g. Kaggle link, or write "provided dataset"]
+19,515 property listings. Source: [provided dataset]
 
 ## Tools Used
 - Python
@@ -26,7 +26,7 @@ Clean the raw listing data and answer 10 pricing questions to understand what dr
 
 ## Files
 - `Real_estate_project.ipynb`: main analysis notebook
-- [add your dataset file name here, if it is in the repo]
+- [data of real estate.csv]
 
 ## How to Run
 1. Clone this repo
